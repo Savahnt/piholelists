@@ -27,3 +27,14 @@
 0.0.0.0 fp.msedge.net
 0.0.0.0 connectivity-check.ubuntu.com
 0.0.0.0 crash.steampowered.com
+0.0.0.0 gateway.fe2.apple-dns.net
+0.0.0.0 sdk-api-v1.singular.net
+0.0.0.0 sdk.iad-03.braze.com
+0.0.0.0 5fd74.v.fwmrm.net
+0.0.0.0 a-vrv.akamaized.net
+0.0.0.0 gateway.fe2.apple-dns.net
+0.0.0.0 a-vrv.akamaized.net
+0.0.0.0 cdn.segment.com
+0.0.0.0 telemetry.malwarebytes.com
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 cdn.prod.adskit.juno.alexa.amazon.dev
