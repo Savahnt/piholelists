@@ -20,3 +20,10 @@
 0.0.0.0 segment.io
 0.0.0.0 5fd74.v.fwmrm.net
 0.0.0.0 a-vrv.akamaized.net
+0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 api2.amplitude.com
+0.0.0.0 api.us-east-1.aiv-delivery.net
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 fp.msedge.net
+0.0.0.0 connectivity-check.ubuntu.com
+0.0.0.0 crash.steampowered.com
